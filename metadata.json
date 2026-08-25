@@ -1,0 +1,6 @@
+{
+  "name": "Territory Runner",
+  "description": "Gamified social running app where runners explore, leave trails, conquer real-world territories by closing loops, compete in sector leaderboards, and run safely with live stealth privacy mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
